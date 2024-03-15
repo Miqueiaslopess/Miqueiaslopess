@@ -24,4 +24,4 @@
 
 </div> <br>
 
- Vamos juntos codificar o futuro e construir experiências web incríveis! Se quiser trocar ideias ou discutir projetos, estou à disposição. 🌟 
+ Vamos juntos codificar o futuro e construir experiênciasincríveis! Se quiser trocar ideias ou discutir projetos, estou à disposição. 🌟 
