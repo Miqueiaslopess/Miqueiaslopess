@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqueias-lopes-3b43b11a2/)
 
-![Miqueias Lopess GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueiaslopess&show_icons=true&theme=radical) <br>
+![Miqueias Lopess GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueiaslopess&showicons=true&theme=radical) <br>
 
 
 ## Tecnologias que eu uso no meu dia
