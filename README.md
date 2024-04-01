@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqueias-lopes-3b43b11a2/)
 
-![Miqueias Lopess GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueiaslopess&showicons=true&theme=radical) <br>
+![Miqueias Lopess GitHub stats](https://github-readme-stats.vercel.app/api?username=miqueiaslopess&showicons=true&theme=radical) <br>
 
 
 ## Tecnologias que eu uso no meu dia
@@ -22,7 +22,7 @@
 <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueiaslopess)](https://github.com/miqueiaslopess/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiaslopess)](https://github.com/miqueiaslopess/github-readme-stats)
 
 </div> <br>
 
