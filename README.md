@@ -22,7 +22,7 @@
 <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiaslopess)](https://github.com/miqueiaslopess/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueiaslopess)](https://github.com/miqueiaslopess/github-readme-stats)
 
 </div> <br>
 
